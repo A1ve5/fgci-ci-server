@@ -1,0 +1,5 @@
+csc-openrc.sh
+*.retry
+*~
+roles/ansible-jenkins
+

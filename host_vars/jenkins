@@ -1,0 +1,16 @@
+---
+plugins:
+  - 'ldap'
+  - 'github'
+  - 'translation'
+  - 'preSCMbuildstep'
+port: 8080
+prefix: '/build'
+email:
+  smtp_host: 'smtp.csc.fi'
+  smtp_ssl: 'true'
+  default_email_suffix: '@csc.fi'
+java_version: "openjdk-7"
+jenkins_admin_user: admin
+# Set the apssword
+#jenkins_admin_password:
