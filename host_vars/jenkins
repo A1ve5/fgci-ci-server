@@ -11,6 +11,7 @@ email:
   smtp_ssl: 'true'
   default_email_suffix: '@csc.fi'
 java_version: "openjdk-7"
+
 jenkins_admin_user: admin
-# Set the apssword
+# Set the password and uncomment
 #jenkins_admin_password:

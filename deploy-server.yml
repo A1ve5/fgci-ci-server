@@ -1,6 +1,4 @@
 ---
-# Basic demo of using Ansible to create a virtual machine on Pouta.csc.fi
-#
 # You'll need to download and source your credentials before this will work:
 #  https://research.csc.fi/pouta-credentials
 #
