@@ -32,8 +32,12 @@ To use this demo you will need:
 
 ## Configuration:
 
+See:
+  - https://github.com/CSC-IT-Center-for-Science/pouta-ansible-demo.git
+  - https://github.com/ICTO/ansible-jenkins
+
 # To-Dos and Kown Issues:
 
-ansible-jenkins role doesn't work for CentOS7 out-of-the-box. "chkconfig jenkins on" shell task needs to be replaced by "systemctl enable jenkins". A pull request is being prepared.
-
-
+ - ansible-jenkins role doesn't work for CentOS7 out-of-the-box. "chkconfig jenkins on" shell task needs to be replaced by "systemctl enable jenkins". A pull request is being prepared.
+ - dynamic inventory
+ - Server security hardening
