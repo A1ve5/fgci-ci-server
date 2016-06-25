@@ -12,7 +12,7 @@ This playbook should allow you to deploy and configure a Jenkins server on CSC C
 
 # Requirements
 
-Get the role:
+Get ansible-jenkins role:
 
 ```bash
 $ git clone https://github.com/ICTO/ansible-jenkins.git roles
