@@ -41,3 +41,5 @@ See:
  - ansible-jenkins role doesn't work for CentOS7 out-of-the-box. "chkconfig jenkins on" shell task needs to be replaced by "systemctl enable jenkins". A pull request is being prepared.
  - dynamic inventory
  - Server security hardening
+ 
+# More ansible roles available in https://github.com/CSC-IT-Center-for-Science
